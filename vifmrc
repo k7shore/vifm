@@ -476,6 +476,7 @@ filextype */
 
 nnoremap . za
 nnoremap <space> t
+nnoremap a:!~/.config/vifm/scripts/vifm-create.sh<cr>:restart<cr>
 
 nnoremap <space>t :tabnew<cr>
 nnoremap <space>j :tabprevious<cr>
